@@ -1,7 +1,7 @@
 omepuller
 Overview
 
-omepuller is a tool designed for educational and security research purposes only. This executable demonstrates how a malicious actor could inject code into a running instance of an online meeting application (such as Zoom, Microsoft Teams, etc.) and then open the hijacked session in another window.
+omepuller is a tool designed for educational and security research purposes only. This executable demonstrates how a malicious actor could inject code into a running instance of an online meeting application (such as omegle, ome.tv, etc.) and then open the hijacked session in another window.
 
 WARNING: This tool should only be used in a controlled environment with explicit permission from all parties involved. Unauthorized use of this tool is illegal and unethical.
 Features
