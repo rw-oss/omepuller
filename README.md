@@ -25,12 +25,6 @@ Usage
     Run the file omepuller.exe as administrator
     Follow the on-screen menu instructions to select the target application and manage the hijacked session.
 
-Example
-
-sh
-
-.\omepuller.exe
-
 Legal and Ethical Considerations
 
 This tool is intended strictly for educational and research purposes. Any misuse of this tool can lead to severe legal consequences. The authors are not responsible for any illegal activities conducted with this tool. Always ensure you have explicit permission before using this tool in any environment.
