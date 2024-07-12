@@ -43,3 +43,5 @@ Contact
 For any inquiries or support, please create an issue on https://github.com/rw-oss/omepuller.
 
 DISCLAIMER: The use of this tool without proper authorization is illegal and unethical. Always operate within the bounds of the law and ethical guidelines.
+
+https://www.virustotal.com/gui/file/a1fa91f4e09dd5502775a58008ca626a7c428b33aa52b078a11e17c69bda7260/community
